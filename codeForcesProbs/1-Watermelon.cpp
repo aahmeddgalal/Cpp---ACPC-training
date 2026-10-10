@@ -17,7 +17,6 @@ using namespace std;
 
 int main() {
   int x;
-  cout << "What's the weight? ";
   cin >> x;
   
   if (x > 2 && x % 2 == 0)
