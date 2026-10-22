@@ -15,8 +15,5 @@ int main() {
       }
   }
   cout << o * e;
-
-
-
   return 0;
 }
